@@ -1,6 +1,7 @@
 import json
 import random
-klasa = 'klasa1.json'
+nazwa_klasy = input('podaj nazwę klasy:(n.p.: 1A, 2B) ')
+klasa = ''+nazwa_klasy+'.json'
 with open(klasa, 'r', encoding='utf-8') as f:
     uczniowie = json.load(f)
 obecni = []
