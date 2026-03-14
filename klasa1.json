@@ -1,0 +1,18 @@
+{
+  "1" : {
+    "imie" : "John1",
+    "nazwisko" : "Doe1"
+  },
+  "2" : {
+    "imie" : "John2",
+    "nazwisko" : "Doe2"
+  },
+  "3" : {
+    "imie" : "John3",
+    "nazwisko" : "Doe3"
+  },
+  "4" : {
+    "imie" : "John4",
+    "nazwisko" : "Doe4"
+  }
+}
